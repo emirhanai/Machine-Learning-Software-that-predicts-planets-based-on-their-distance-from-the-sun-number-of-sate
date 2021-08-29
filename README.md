@@ -50,3 +50,6 @@ Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
 [DataSource]: https://www.nasa.gov/
 
 [DataSource1]: https://en.wikipedia.org/wiki/Main_Page
+
+<img src="https://raw.githubusercontent.com/emirhanai/Machine-Learning-Software-that-predicts-planets-based-on-their-distance-from-the-sun-number-of-sate/main/emirhan_project_planet_classifier0.png" alt="Random Forest Classifier">
+<img src="https://raw.githubusercontent.com/emirhanai/Machine-Learning-Software-that-predicts-planets-based-on-their-distance-from-the-sun-number-of-sate/main/emirhan_project_planet_regressor0.png" alt="Random Forest Regressor">
