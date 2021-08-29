@@ -1,0 +1,9 @@
+Planet,Distance From The Sun,Confirmed Moons,Provisional Moons,Total Moons,(Volume/1000000000-cubic km),Diameter of Planet(km)
+Mercury,57910000,0,0,0,60,4884
+Venus,108200000,0,0,0,928,12342
+Earth,149600000,1,0,1,1083,12735
+Mars,227900000,2,0,2,163,6767
+Jupiter,778500000,53,26,79,1431280,142324
+Saturn,1434000900,53,29,81,827130,124832
+Uranus,2871000900,27,0,27,68330,51726
+Neptune,4495000900,14,0,14,62540,49243
